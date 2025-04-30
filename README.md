@@ -1,2 +1,4 @@
 # Principal-Component-Analysis-PCA-dan-Factor-Analysis-FA-pada-Morfologis-Mikroorganisme
-Proyek ini menerapkan Principal Component Analysis (PCA) dan Factor Analysis (FA) untuk menganalisis fitur morfometrik mikroorganisme. Analisis dilakukan dengan R menggunakan visualisasi Scree Plot, Biplot, Correlation Circle, serta interpretasi faktor laten melalui rotasi varimax.
+This project applied Principal Component Analysis (PCA) and Factor Analysis (FA) to analyze
+the morphometric features of microorganisms. The analysis was conducted with R using Scree Plot,
+Biplot, Correlation Circle visualizations, as well as latent factor interpretation through varimax rotation.
